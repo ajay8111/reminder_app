@@ -1,6 +1,8 @@
-# reminder_app
+# Reminder Application
 
-A new Flutter project.
+UI Screenshots 
+
+![1](https://github.com/user-attachments/assets/cc0c7641-e522-4974-a639-bfea3fdf0d3d)
 
 ## Getting Started
 
